@@ -103,19 +103,19 @@ Learners log in with allocated accounts, select their **preferred language (Engl
 
 ## 🎯 Technology Stack
 
-### 🔹 Backend
-- Intranet server (custom)  
-- Laravel (PHP framework)  
-- PHP  
-- Docker (containerized deployment)  
-- REST APIs (JSON communication)  
-- Database for user & training data  
-
 ### 🔹 Frontend
 - Unity C# + XR Toolkit  
 - Blender (3D optimization)  
-- Figma (UX flow design)  
-- React + Java + HTML/CSS (Admin Dashboard)  
+- Figma (UX flow design)
+
+### 🔹 Backend
+- Intranet server (custom)  
+- Integrated Dashboard for Admin & Trainee (to collect real-time data)  
+- Tools & Languages:  
+  1. Laravel (PHP framework)  
+  2. PHP  
+  3. Docker (containerized deployment)  
+  4. REST APIs (JSON communication)
 
 ---
 
@@ -131,8 +131,7 @@ With **multilingual support, structured modules, quizzes, and real-time backend 
 ---
 
 ## 🔐 Data Privacy & Security
-Our **data handling approach** prioritizes **client data sovereignty** through:  
-- **On-premises deployment**  
+Our **data handling approach** prioritizes **client data sovereignty** through:
 - **Comprehensive security controls**  
 - **Transparent operational practices**  
 
