@@ -79,6 +79,13 @@ Learners log in with allocated accounts, select their **preferred language (Engl
 
 ---
 
+<p align="center">
+<img src="./Assets/Images/github/figma-ux-flow.png" width="70%"><br>
+<a href="https://www.figma.com/design/TtAuN9sTaX7X76bN5hEnjY/Bayer-VRLMS-M2_A?node-id=0-1&t=1Ysy1YMdjUnbOMrJ-1" target="blank">▶ Click here to explore the module’s UX flow</a>
+</p>
+
+---
+
 ## 📝 Quizzing System
 - Each chapter ends with a **5-question quiz (5 marks total)**  
 - **Scoring Rules**:  
