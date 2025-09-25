@@ -17,7 +17,8 @@ This project brings together **LIDAR scanning, Unity XR Toolkit, AutoHands packa
 ## 📑 Contents
 - [🌍 Overview](#-overview)  
 - [🔄 Workflow Summary](#-workflow-summary)  
-- [🏗 Virtual Environment](#-virtual-environment)  
+- [🏗 Virtual Environment](#-virtual-environment)
+- [🔊 Audio](#-audio)  
 - [🗣 Multilingual Support](#-multilingual-support)  
 - [🎮 User Interaction](#-user-interaction)  
 - [📝 Quizzing System](#-quizzing-system)  
@@ -56,6 +57,12 @@ Learners log in with allocated accounts, select their **preferred language (Engl
 - Real-world packaging line **scanned via LIDAR + cameras**  
 - Retopologized in **Blender** for performance-optimized VR assets  
 - Imported into **Unity URP** for interactive simulation  
+
+---
+
+## 🔊 Audio
+- To mimic the **floor environment ambiance**, we added **sound effects** to all equipment and machinery, just like in the **real-world seed packaging line**.  
+- This addition makes the VR training experience even **more immersive and realistic**, allowing trainees to feel fully present in the simulated environment.  
 
 ---
 
