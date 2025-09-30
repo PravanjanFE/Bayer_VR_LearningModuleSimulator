@@ -1,4 +1,4 @@
-![Bayer VR Learning Module Simulator](./assets/cover-image.png)
+![Bayer VR Learning Module Simulator](./github_assets/cover-image2.png)
 
 # 🌾 Bayer VR Learning Module Simulator
 
@@ -11,6 +11,8 @@ What if administrators could **monitor every trainee’s progress, quiz results,
 What if training could be **modular, language-friendly, and trackable**, ensuring both trainees and administrators gain **clear insights into performance and progress**?  
 
 This project brings together **LIDAR scanning, Unity XR Toolkit, AutoHands package, multilingual support, and custom backend APIs** to deliver a **complete VR learning ecosystem**.  
+
+[▶ Watch Gameplay Demo Video](https://drive.google.com/file/d/1w_0QkdpbJNrvyqJFYwUBhMpEMUiH3LDN/view?usp=drive_link)
 
 ---
 
@@ -58,6 +60,10 @@ Learners log in with allocated accounts, select their **preferred language (Engl
 - Retopologized in **Blender** for performance-optimized VR assets  
 - Imported into **Unity URP** for interactive simulation  
 
+<p align="center">
+<img src="./github_assets/LIDAR-Scanner-Sample.png" width="70%">
+</p>
+
 ---
 
 ## 🔊 Audio
@@ -80,7 +86,7 @@ Learners log in with allocated accounts, select their **preferred language (Engl
 ---
 
 <p align="center">
-<img src="./Assets/Images/github/figma-ux-flow.png" width="70%"><br>
+<img src="./github_assets/figma-ux-flow.png" width="70%"><br>
 <a href="https://www.figma.com/design/TtAuN9sTaX7X76bN5hEnjY/Bayer-VRLMS-M2_A?node-id=0-1&t=1Ysy1YMdjUnbOMrJ-1" target="blank">▶ Click here to explore the module’s UX flow</a>
 </p>
 
