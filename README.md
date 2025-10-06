@@ -150,6 +150,11 @@ With **multilingual support, structured modules, quizzes, and real-time backend 
 
 ---
 
+## 🌐 Company Website
+Visit us at [FourEdges.io](https://fouredges.io/)
+
+---
+
 ## 🔐 Data Privacy & Security
 Our **data handling approach** prioritizes **client data sovereignty** through:
 - **Comprehensive security controls**  
