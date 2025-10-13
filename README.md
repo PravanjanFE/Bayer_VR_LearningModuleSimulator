@@ -141,7 +141,9 @@ Learners log in with allocated accounts, select their **preferred language (Engl
 - PDF & Report Generation: dompdf / barryvdh-laravel-dompdf
 - Scheduler & Queue Handling: Laravel Scheduler, Redis / Queue Jobs
 - Deployment Environment: On-premise or cloud-based web server (Windows)
+---
 📘 Documentation for more information
+---
 
 ## 🧩 Challenges & Solutions
 
