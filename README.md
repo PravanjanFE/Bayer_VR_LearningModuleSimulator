@@ -100,13 +100,14 @@ Learners log in with allocated accounts, select their **preferred language (Engl
 - Results displayed instantly and logged to backend  
 
 ---
- 🧩 Architecture Diagram
-![Architecture](./github_assets/backend_architecture.png)
+
 ## 🔗 Backend Integration
 - Custom **intranet-based backend server** for account and data management  
 - APIs created for Unity to **send/receive JSON data securely**  
 - Player progress updates sent **every 60 seconds** (including interaction completions)
-
+<a href="https://github.com/PravanjanFE/Bayer_VR_LearningModuleSimulator/blob/main/github_assets/Backend_Laravel%20_Client_Server_Setup_Documentation.docx" target="_blank" rel="noopener noreferrer">
+📘 Documentation for more information
+</a>
 
 ---
 
@@ -142,19 +143,6 @@ Learners log in with allocated accounts, select their **preferred language (Engl
 - Scheduler & Queue Handling: Laravel Scheduler, Redis / Queue Jobs
 - Deployment Environment: On-premise or cloud-based web server (Windows)
 
-<a href="https://github.com/PravanjanFE/Bayer_VR_LearningModuleSimulator/blob/main/github_assets/Backend_Laravel%20_Client_Server_Setup_Documentation.docx" target="_blank" rel="noopener noreferrer">
-📘 Documentation for more information
-</a>
-
-## 🧩 Challenges & Solutions
-
-| **Challenge** | **Description** | **Solution Implemented** |
-|----------------|-----------------|---------------------------|
-| **Database Connectivity** | Connecting Laravel application to a remote MySQL server securely. | Configured `.env` with remote host IP, enabled MySQL remote access, and used firewall rules for controlled access. |
-| **Data Accuracy in Reports** | Inconsistent progress and time calculations for users. | Introduced a centralized `CalculationService` for accurate data aggregation. |
-| **PDF Export Formatting** | Misalignment in generated reports. | Developed dedicated Blade templates for each report type. |
-| **Role-Based Data Access** | Difficulty managing admin and user permissions. | Implemented middleware with Laravel Gates and Policies. |
-| **Large Data Processing** | Slow performance with large datasets. | Applied query optimization, eager loading, and pagination techniques. |
 
 ---
 
