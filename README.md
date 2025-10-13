@@ -106,7 +106,6 @@ Learners log in with allocated accounts, select their **preferred language (Engl
 - APIs created for Unity to **send/receive JSON data securely**  
 - Player progress updates sent **every 60 seconds** (including interaction completions)
 
-
 ---
 
 ## 📊 Admin Dashboard & Trainee Panel
