@@ -109,6 +109,8 @@ Learners log in with allocated accounts, select their **preferred language (Engl
 📘 Documentation for more information
 </a>
 
+ 🧩 Architecture Diagram
+![Architecture](./github_assets/backend_architecture.png)
 ---
 
 ## 📊 Admin Dashboard & Trainee Panel
@@ -143,6 +145,15 @@ Learners log in with allocated accounts, select their **preferred language (Engl
 - Scheduler & Queue Handling: Laravel Scheduler, Redis / Queue Jobs
 - Deployment Environment: On-premise or cloud-based web server (Windows)
 
+## 🧩 Challenges & Solutions
+
+| **Challenge** | **Description** | **Solution Implemented** |
+|----------------|-----------------|---------------------------|
+| **Database Connectivity** | Connecting Laravel application to a remote MySQL server securely. | Configured `.env` with remote host IP, enabled MySQL remote access, and used firewall rules for controlled access. |
+| **Data Accuracy in Reports** | Inconsistent progress and time calculations for users. | Introduced a centralized `CalculationService` for accurate data aggregation. |
+| **PDF Export Formatting** | Misalignment in generated reports. | Developed dedicated Blade templates for each report type. |
+| **Role-Based Data Access** | Difficulty managing admin and user permissions. | Implemented middleware with Laravel Gates and Policies. |
+| **Large Data Processing** | Slow performance with large datasets. | Applied query optimization, eager loading, and pagination techniques. |
 
 ---
 
