@@ -105,9 +105,7 @@ Learners log in with allocated accounts, select their **preferred language (Engl
 - Custom **intranet-based backend server** for account and data management  
 - APIs created for Unity to **send/receive JSON data securely**  
 - Player progress updates sent **every 60 seconds** (including interaction completions)
-<a href="https://github.com/PravanjanFE/Bayer_VR_LearningModuleSimulator/blob/main/github_assets/Backend_Laravel%20_Client_Server_Setup_Documentation.docx" target="_blank" rel="noopener noreferrer">
-📘 Documentation for more information
-</a>
+
 
 ---
 
