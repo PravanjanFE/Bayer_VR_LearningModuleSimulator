@@ -102,12 +102,11 @@ Learners log in with allocated accounts, select their **preferred language (Engl
 ---
  🧩 Architecture Diagram
 ![Architecture](./github_assets/backend_architecture.png)
-
 ## 🔗 Backend Integration
 - Custom **intranet-based backend server** for account and data management  
 - APIs created for Unity to **send/receive JSON data securely**  
 - Player progress updates sent **every 60 seconds** (including interaction completions)
-<a href="https://github.com/PravanjanFE/Bayer_VR_LearningModuleSimulator/blob/main/github_assets/Backend_Laravel%20_Client_Server_Setup_Documentation.docx" target="_blank" rel="noopener noreferrer"></a>
+
 ---
 
 ## 📊 Admin Dashboard & Trainee Panel
@@ -142,9 +141,10 @@ Learners log in with allocated accounts, select their **preferred language (Engl
 - Scheduler & Queue Handling: Laravel Scheduler, Redis / Queue Jobs
 - Deployment Environment: On-premise or cloud-based web server (Windows)
 ---
+<a href="https://github.com/PravanjanFE/Bayer_VR_LearningModuleSimulator/blob/main/github_assets/Backend_Laravel%20_Client_Server_Setup_Documentation.docx" target="_blank" rel="noopener noreferrer">
 📘 Documentation for more information
+</a>
 ---
-
 ## 🧩 Challenges & Solutions
 
 | **Challenge** | **Description** | **Solution Implemented** |
