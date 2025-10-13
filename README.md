@@ -106,7 +106,7 @@ Learners log in with allocated accounts, select their **preferred language (Engl
 - APIs created for Unity to **send/receive JSON data securely**  
 - Player progress updates sent **every 60 seconds** (including interaction completions)
 <a href="https://github.com/PravanjanFE/Bayer_VR_LearningModuleSimulator/blob/main/github_assets/Backend_Laravel%20_Client_Server_Setup_Documentation.docx" target="_blank" rel="noopener noreferrer">
-📘 Open Backend Laravel Setup Documentation
+📘 Documentation for more information
 </a>
 
 ---
@@ -132,13 +132,17 @@ Learners log in with allocated accounts, select their **preferred language (Engl
 - Figma (UX flow design)
 
 ### 🔹 Backend
-- Intranet server (custom)  
-- Integrated Dashboard for Admin & Trainee (to collect real-time data)  
-- Tools & Languages:  
-  1. Laravel (PHP framework)  
-  2. PHP  
-  3. Docker (containerized deployment)  
-  4. REST APIs (JSON communication)
+- Framework: Laravel (PHP 10.x compatible)
+- Database: MySQL 
+- Frontend Integration: JSON response format
+- Authentication: Laravel Passport / Sanctum for token-based authentication
+- Server: Apache 
+- Version Control: Git & GitHub for source management
+- Environment Management: .env configuration for secure deployment
+- PDF & Report Generation: dompdf / barryvdh-laravel-dompdf
+- Scheduler & Queue Handling: Laravel Scheduler, Redis / Queue Jobs
+- Deployment Environment: On-premise or cloud-based web server (Windows)
+
 
 ---
 
